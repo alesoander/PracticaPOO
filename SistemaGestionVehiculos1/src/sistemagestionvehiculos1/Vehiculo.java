@@ -8,7 +8,7 @@ package sistemagestionvehiculos1;
  *
  * @author LAB-USR-CHIMBOTE
  */
-public class Vehiculo {
+public abstract class Vehiculo {
 
   
     
